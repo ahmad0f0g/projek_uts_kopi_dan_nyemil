@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.KopiDanNyemil" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/royal_blue_dark</item>
+        <item name="colorSecondary">@color/web_golden</item>
+
+        <!-- Mengunci Background Utama ke Royal Blue Dark -->
+        <item name="android:windowBackground">@color/royal_blue_dark</item>
+        <!-- Memaksa perangkat dengan tema terang untuk menggunakan tema aplikasi ini -->
+        <item name="android:forceDarkAllowed" tools:targetApi="q">true</item>
+    </style>
+
+    <style name="Theme.KopiDanNyemil" parent="Base.Theme.KopiDanNyemil" />
+</resources>

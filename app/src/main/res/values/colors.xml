@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="royal_blue_dark">#00296B</color>
+    <color name="web_golden">#FFD500</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <!-- Warna khusus untuk hint/placeholder EditText (Web Golden setengah transparan) -->
+    <color name="web_golden_hint">#80FFD500</color>
+</resources>
