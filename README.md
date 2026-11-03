@@ -8,11 +8,11 @@
 
 | Splash Screen | Sign Up / Auth | Login User | Register |
 |:---:|:---:|:---:|:---:|
-| `![Splash](screenshot/welcome.jpeg)` | `![Sign Up](screenshot/signup.png)` | `![Login](screenshot/login.png)` | `![Register](screenshot/registrasi.png)` |
+| ![Splash](screenshoot/welcome.jpeg) | ![Sign Up](screenshoot/signup.png) | ![Login](screenshoot/login.png) | ![Register](screenshoot/registrasi.png) |
 
 | Home Menu | User Profile | Form Order | Konfirmasi Pesanan |
 |:---:|:---:|:---:|:---:|
-| `![Home](screenshot/home.png)` | `![Profile](screenshot/profile.png)` | `![Order](screenshot/order.png)` | `![Confirmation](screenshot/konfiramsi.png)` |
+| ![Home](screenshoot/home.png) | ![Profile](screenshoot/profile.png) | ![Order](screenshoot/order.png) | ![Confirmation](screenshoot/konfiramsi.png) |
 
 ---
 
