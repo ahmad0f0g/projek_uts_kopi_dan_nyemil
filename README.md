@@ -8,13 +8,11 @@
 
 | Splash Screen | Sign Up / Auth | Login User | Register |
 |:---:|:---:|:---:|:---:|
-| `![Splash](screenshots/welcome.jpeg)` | `![Sign Up](screenshots/signup.png)` | `![Login](screenshots/login.png)` | `![Register](screenshots/registrasi.png)` |
+| `![Splash](screenshot/welcome.jpeg)` | `![Sign Up](screenshot/signup.png)` | `![Login](screenshot/login.png)` | `![Register](screenshot/registrasi.png)` |
 
 | Home Menu | User Profile | Form Order | Konfirmasi Pesanan |
 |:---:|:---:|:---:|:---:|
-| `![Home](screenshots/home.png)` | `![Profile](screenshots/profile.png)` | `![Order](screenshots/order.png)` | `![Confirmation](screenshots/konfiramsi.png)` |
-
-> *Catatan: Ganti path `screenshots/filename.png` di atas dengan direktori/link gambar screenshot aplikasi Anda.*
+| `![Home](screenshot/home.png)` | `![Profile](screenshot/profile.png)` | `![Order](screenshot/order.png)` | `![Confirmation](screenshot/konfiramsi.png)` |
 
 ---
 
@@ -84,4 +82,4 @@
 
 1. **Clone Repository:**
    ```bash
-   git clone [https://github.com/username/kopi-dan-nyemil.git](https://github.com/username/kopi-dan-nyemil.git)
+   git clone [https://github.com/ahmad0f0g/projek_uts_kopi_dan_nyemil.git](https://github.com/ahmad0f0g/projek_uts_kopi_dan_nyemil.git)
