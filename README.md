@@ -12,7 +12,7 @@
 
 | Home Menu | User Profile | Form Order | Konfirmasi Pesanan |
 |:---:|:---:|:---:|:---:|
-| ![Home](screenshoot/home.jpeg) | ![Profile](screenshoot/profile.jpeg) | ![Order](screenshoot/order.jpeg) | ![Confirmation](screenshoot/konfiramsi.jpeg) |
+| ![Home](screenshoot/home.jpeg) | ![Profile](screenshoot/profile.jpeg) | ![Order](screenshoot/order.jpeg) | ![Confirmation](screenshoot/konfirmasi.jpeg) |
 
 ---
 
